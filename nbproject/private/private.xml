@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/config/routing.yml</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Entity/Image.php</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/config/parameters.yml</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/views/Default/ajout.html.twig</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/public/js/bootstrap.js</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/config/security.yml</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/views/Default/show.html.twig</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/web/image/DSC_3374.JPG</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/views/Default/delete.html.twig</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/config/config_dev.yml</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/config/parameters.yml.dist</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/AppKernel.php</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/web/image/DSC_3367.JPG</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Form/AnnonceType.php</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Entity/Annonce.php</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/public/css/style_css1.css</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/config/routing.yml</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/composer.json</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/config/config.yml</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/app/Resources/views/base.html.twig</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/views/Default/index.html.twig</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Controller/CatalogueController.php</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Form/ImageType.php</file>
+            <file>file:/Applications/MAMP/htdocs/leboncoin/src/leboncoinBundle/Resources/public/js/jasny-bootstrap.js</file>
+        </group>
+    </open-files>
+</project-private>
